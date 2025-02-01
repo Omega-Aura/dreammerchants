@@ -6,7 +6,7 @@ UnOfficial website for Dream Merchants Club.
 Welcome to the official website of Dream Merchants, a university-based financial club dedicated to fostering financial literacy and leadership among students.
 
 ## Live Site
-Visit the live site: [https://yourusername.github.io]([https://yourusername.github.io](https://omega-aura.github.io/dreammerchants/))
+Visit the live site: https://omega-aura.github.io/dreammerchants/
 
 ## File Structure
 - `index.html`: Main HTML file.
